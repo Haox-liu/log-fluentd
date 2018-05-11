@@ -1,0 +1,3 @@
+GROUP="dtdream"
+NAME="log-fluentd"
+TAG="1.0.0"
